@@ -1,2 +1,7 @@
 ## Welcome to GitHub Pages
-welcome to github!
+
+
+
+
+
+<center>welcome to github!</center>
